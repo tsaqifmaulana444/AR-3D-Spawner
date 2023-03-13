@@ -13,3 +13,5 @@ Special thanks to kak [fachryansyah](https://github.com/fachryansyah)
 
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+[![Lang CS](https://img.shields.io/badge/lang-C%23-brightgreen)]()
+[![Editor](https://img.shields.io/badge/editor-unity-lightgrey)]()
