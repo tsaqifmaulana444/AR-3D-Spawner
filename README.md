@@ -11,6 +11,7 @@ Kamu dapat menggunakan adb untuk installasi ke Android/IOS mu, untuk lebih lengk
 
 Special thanks to kak [fachryansyah](https://github.com/fachryansyah)
 
+*Note : objek 3D bawaan masih berbentuk agar-agar, tetapi objek 3D bisa diganti kapanpun
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![Lang CS](https://img.shields.io/badge/lang-C%23-brightgreen)]()
